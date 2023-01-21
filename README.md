@@ -1,3 +1,5 @@
+<h1 align="center">Dracula Events</h1>
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1066427677864636456/1066491952117317722/base.png" width="400"></p>
 
 <p align="center">
