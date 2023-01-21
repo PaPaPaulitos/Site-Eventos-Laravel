@@ -43,7 +43,6 @@ O projeto vai estar rodando localmente na sua máquina no endereço.
 
 ```
 127.0.0.1:8000
-
 ```
 
 ## Video do Projeto
