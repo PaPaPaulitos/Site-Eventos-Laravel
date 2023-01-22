@@ -50,6 +50,11 @@ O projeto vai estar rodando localmente na sua máquina no endereço.
  - Em breve
 
 
+## De onde vem esse design?
+
+Esse design foi inspirado no [Dracula Theme](https://draculatheme.com) criado pelo brasileiro Zeno Rocha.
+
+
 ## Licença
 
 Tanto o Laravel quando esse projeto possuem a licença do [MIT](https://opensource.org/licenses/MIT).
