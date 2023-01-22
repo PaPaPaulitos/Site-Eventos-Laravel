@@ -47,7 +47,7 @@ O projeto vai estar rodando localmente na sua máquina no endereço.
 
 ## Video do Projeto
 
- - Em breve
+ - [Video do Projeto](https://youtu.be/AeC_A25qMPE).
 
 
 ## De onde vem esse design?
